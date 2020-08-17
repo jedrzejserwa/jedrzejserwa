@@ -75,9 +75,9 @@
 ### 📺 Latest Talks/Workshops
 
 <!-- TALKS:START -->
-- [Hacktoberfest 2019 | Introduction to Ansible - what is it, what problems does it help to solve?](on site)
+- Hacktoberfest 2019 | Introduction to Ansible - what is it, what problems does it help to solve?
 - [pozitive technologies 2019 | GraalVM - JVM over JVMs?](https://www.youtube.com/watch?v=O8C27sQeWzI)
-- [Poznań University of Technology | Java, Spring Framework and Clean Architecture](on site)
+- Poznań University of Technology | Java, Spring Framework and Clean Architecture
 <!-- TALKS:END -->
 
 
