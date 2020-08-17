@@ -5,13 +5,15 @@
 - 👯 I’m looking to collaborate on Event Sourcing projects
 - 🥅 2020 Goals: Release private project started in 2019
 
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="jserwa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="jedrze_serwa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="serwa.it" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
----
+<br />
 
 ### Languages and Tools:
 
@@ -56,6 +58,8 @@
 <img align="left" alt="InteliJ IDEA" width="26px" src="https://avatars0.githubusercontent.com/u/878437?s=200&v=4" />
 <!-- EDITORS:END -->
 
+<br />
+<br />
 
 ---
 
@@ -73,7 +77,7 @@
 <!-- TALKS:START -->
 - [Hacktoberfest 2019 | Introduction to Ansible - what is it, what problems does it help to solve?](on site)
 - [pozitive technologies 2019 | GraalVM - JVM over JVMs?](https://www.youtube.com/watch?v=O8C27sQeWzI)
-- [Poznań University of Technology | Java, Spring Framework and Clean Architecture](https://www.youtube.com/watch?v=TpAwggQJPUQ)
+- [Poznań University of Technology | Java, Spring Framework and Clean Architecture](on site)
 <!-- TALKS:END -->
 
 
