@@ -12,7 +12,7 @@
 [<img align="left" alt="jedrze_serwa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="serwa.it" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-
+<br />
 
 ### Languages and Tools:
 
